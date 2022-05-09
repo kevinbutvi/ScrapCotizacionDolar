@@ -1,2 +1,7 @@
 # ScrapCotizacionDolar
-Pequeño Scraper de muestra de funcionamiento para poder manipular datos de manera automatizada.
+Scraper en Selenium para manipulacion de datos automatizada. Aplicable y extensible a cualquier proyecto.
+
+No requiere de la instalacion local del ChromeDriver.
+Solo debemos tener instalado en el entorno 
+- "selenium"
+- "webdriver-manager" 
